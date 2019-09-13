@@ -1,6 +1,6 @@
 {
   "name": "mm_cachebase",
-  "version": "1.2.4",
+  "version": "1.2.5",
   "description": "这是超级美眉cachebase帮助函数模块，一个简单的内存缓存",
   "main": "index.js",
   "scripts": {
@@ -30,6 +30,6 @@
   },
   "homepage": "https://github.com/qiuwenwu/mm_cachebase#readme",
   "dependencies": {
-    "mm_expand": "^1.2.4"
+    "mm_expand": "^1.2.5"
   }
 }
