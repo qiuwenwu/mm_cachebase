@@ -51,7 +51,7 @@ async function test() {
 	// var ar = await cache.list_get("arr", 2);
 	// console.log(ar);
 
-	//console.log("取值" + $.toJson(arr));
+	//console.log("取值" + JSON.stringify(arr));
 
 	// await cache.del('a_c');
 	// ret = await cache.clear(); // 清空缓存
